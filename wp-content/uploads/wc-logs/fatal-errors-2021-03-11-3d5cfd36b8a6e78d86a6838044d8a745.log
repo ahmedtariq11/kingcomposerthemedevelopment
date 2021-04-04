@@ -1,0 +1,280 @@
+2021-03-11T08:03:50+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-11T08:26:51+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T09:11:06+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\header.php on line 460
+
+2021-03-11T09:16:35+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T09:20:09+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-11T09:20:19+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-11T09:26:04+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-11T09:31:56+00:00 CRITICAL Uncaught Error: Call to undefined function clean_post_nav() in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\clean-master\single.php:17
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\clean-master\single.php on line 17
+
+2021-03-11T09:32:37+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-11T09:37:05+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-11T10:01:48+00:00 CRITICAL syntax error, unexpected 'active' (T_STRING), expecting ';' or ',' in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\functions.php on line 588
+
+2021-03-11T10:58:41+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\woocommerce\single-product.php on line 393
+
+2021-03-11T11:06:59+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T11:07:20+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T11:22:10+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\template-parts\front-page\product.php on line 161
+
+2021-03-11T11:49:43+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T11:50:23+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T11:50:29+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T11:51:41+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T11:52:25+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T13:00:57+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T13:01:10+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T19:15:23+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post-new.php(83): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T19:16:09+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T19:16:21+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post-new.php(83): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-11T19:20:37+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-11T19:46:00+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-11T20:21:07+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-11T20:24:04+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+

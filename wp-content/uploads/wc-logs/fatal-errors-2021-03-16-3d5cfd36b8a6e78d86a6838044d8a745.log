@@ -1,0 +1,192 @@
+2021-03-16T07:34:42+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\woocommerce\single-product.php on line 337
+
+2021-03-16T17:34:13+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T17:47:53+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T18:24:31+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
+2021-03-16T18:39:05+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:04:11+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:05:15+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:10:14+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:10:23+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post-new.php(83): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:10:39+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:11:34+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:11:44+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:13:06+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:13:16+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:13:24+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:26:53+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:27:22+00:00 CRITICAL Uncaught Error: Call to undefined function wtgal_get_gallery_dropdown() in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php:11
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\class-admin-editor.php(89): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): We_Gallery_Admin_Editor->media_thickbox_content('')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-admin\admin-footer.php(78): do_action('admin_footer', '')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-admin\post.php(362): require_once('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\we-gallery-develop\includes\views\shortcode-builder.php on line 11
+
+2021-03-16T20:47:29+00:00 CRITICAL Uncaught Error: Call to undefined function fl_woocommerce_version_check() in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\woocommerce\global\quantity-input.php:84
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1700): wc_get_template('global/quantity...', Array)
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\woocommerce\single-product\add-to-cart\simple.php(41): woocommerce_quantity_input(Array)
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include('E:\\xamp\\htdocs\\...')
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\woocommerce\single-product.php(138): wc_get_template('single-product/...')
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include('E:\\xamp\\htdocs\\...')
+#6 E:\xamp\h in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\woocommerce\global\quantity-input.php on line 84
+
+2021-03-16T20:48:48+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\woocommerce\global\quantity-input.php on line 37
+
+2021-03-16T20:49:28+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\woocommerce\global\quantity-input.php on line 48
+

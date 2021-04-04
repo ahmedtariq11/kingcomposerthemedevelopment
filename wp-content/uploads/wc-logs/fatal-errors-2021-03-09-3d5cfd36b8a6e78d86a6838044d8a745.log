@@ -1,0 +1,723 @@
+2021-03-09T12:08:00+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:08:00+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:08:00+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:08:00+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:08:00+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:08:01+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:08:02+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:08:03+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:17+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:18+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:18+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:18+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:18+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:18+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:18+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:40+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:40+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:40+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:40+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:40+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:46+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:48+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:48+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:48+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:48+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:48+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:12:48+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:05+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:06+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:07+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:07+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:49+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:51+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:51+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:51+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:51+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:51+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:15:52+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:02+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:02+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:02+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:02+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:02+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:03+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:03+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:24+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:24+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:19:24+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:24:40+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:24:40+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:24:41+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:24:58+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:24:58+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:24:58+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:06+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:06+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:12+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:12+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:12+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:30+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:30+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:30+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:34+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:35+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:35+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:35+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:35+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:25:35+00:00 CRITICAL Uncaught Error: Call to a member function get_regular_price() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:118
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 118
+
+2021-03-09T12:30:13+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:14+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:14+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:47+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:49+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:49+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:52+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:52+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:52+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:30:58+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:31:10+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:31:10+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:31:10+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:31:10+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:31:10+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:31:11+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T12:31:12+00:00 CRITICAL Uncaught Error: Call to a member function get_sale_price() on bool in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php:15
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\wocommerceevegetables\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\xpent\index.php on line 15
+
+2021-03-09T13:00:53+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php:26
+Stack trace:
+#0 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-core-functions.php(251): include()
+#1 E:\xamp\htdocs\wocommerceevegetables\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1565): wc_get_template('single-product/...')
+#2 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(287): woocommerce_show_product_sale_flash('')
+#3 E:\xamp\htdocs\wocommerceevegetables\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 E:\xamp\htdocs\wocommerceevegetables\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#5 E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\content-single-product.php(41): do_action('woocommerce_bef...')
+#6 E:\xamp\htdocs\wocommerceevegetables\wp-includes\template.php(725): require('E:\\xamp\\htdocs\\...')
+#7 E:\x in E:\xamp\htdocs\wocommerceevegetables\wp-content\themes\ecom\woocommerce\single-product\sale-flash.php on line 26
+
