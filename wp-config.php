@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wocommerce_shop' );
 define( 'DB_USER', 'wocommerce_shop' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '344qaz741F' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
