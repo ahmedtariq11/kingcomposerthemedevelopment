@@ -24,13 +24,36 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 global $product;
 ?>
+       <div class="price-box"> <?php if ( $sale_price = $product->get_sale_price() ) {?>
 
-<?php if ( $sale_price = $product->get_sale_price() ) {?>
-
-	<span class="price"><?php echo $sale_price; ?></span>
+  <span class="price"><?php echo $sale_price; ?></span>
 <?php   }?>
                  <?php if ( $regular_price = $product->get_regular_price() ) {?>
 
                         <del class="price old-price"><?php echo $regular_price; ?></del>
 
-<?php } ?>
+<?php } ?> </div>
+
+<div class="product-info-stock-sku">
+
+	<?php do_action( 'woocommerce_product_meta_start' ); ?>
+
+	<?php if ( wc_product_sku_enabled() && ( $product->get_sku() || $product->is_type( 'variable' ) ) ) : ?>
+
+	<label>SKU:  <span class="info-deta"><?php echo ( $sku = $product->get_sku() ) ? $sku : esc_html__( 'N/A', 'woocommerce' ); ?></span>
+		</label>
+
+	<?php endif; ?>
+
+	<?php //echo wc_get_product_category_list( $product->get_id(), ', ', '<span class="posted_in">' . _n( 'Category:', 'Categories:', count( $product->get_category_ids() ), 'woocommerce' ) . ' ', '</span>' ); ?>
+
+	<?php //echo wc_get_product_tag_list( $product->get_id(), ', ', '<span class="tagged_as">' . _n( 'Tag:', 'Tags:', count( $product->get_tag_ids() ), 'woocommerce' ) . ' ', '</span>' ); ?>
+
+	 <div>
+                      <label>Availability: </label>
+                      <span class="info-deta">In stock</span> </div>
+                  
+
+	<?php do_action( 'woocommerce_product_meta_end' ); ?>
+
+</div>
