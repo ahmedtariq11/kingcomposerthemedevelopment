@@ -101,7 +101,7 @@ get_header( 'shop' ); ?>
         <div class="col-md-5 col-sm-5 mb-xs-30">
           <div class="fotorama" data-nav="thumbs" data-allowfullscreen="native"> 
       <a href="<?php echo esc_url( $product_link ); ?>">
-        <img src="<?php echo esc_url( $product_thumbnail_url ); ?>" alt="<?php echo esc_html( $product_title ); ?>">
+        <img  src="<?php echo esc_url( $product_thumbnail_url ); ?>" alt="<?php echo esc_html( $product_title ); ?>">
       </a>
            
           </div>
@@ -136,6 +136,7 @@ get_header( 'shop' ); ?>
                   <p><?php echo $short_description;?></p>
                   <div class="product-size select-arrow mb-20 mt-30">
                     <?php wc_get_template('single-product/add-to-cart/simple.php'); ?>   
+                    
                  
                   </div>
                  
